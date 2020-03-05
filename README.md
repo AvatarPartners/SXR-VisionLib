@@ -1,1 +1,1 @@
-# SXR AR Foundation
+# SXR VisionLib
