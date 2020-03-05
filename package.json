@@ -1,0 +1,13 @@
+{
+  "name": "com.avatarpartners.sxr_vl",
+  "version": "1.3.5",
+  "displayName": "SimplifyXR VisionLib",
+  "description": "This is the SimplifyXR VisionLib package",
+  "unity": "2019.3",
+  "unityRelease": "2f1",
+  "author": {
+    "name": "Avatar Partners",
+    "email": "SXRTeam@avatarpartners.com",
+    "url": "https://www.avatarpartners.com"
+  }
+}
